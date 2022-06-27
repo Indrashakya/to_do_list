@@ -1,3 +1,62 @@
+# About ME
+My Developer with background Accounting. I know no one believe this but I am really interested to learning new technologies and new field. I am passionate about technology and implementing them in this constantly evolving industry.
+I am currently Serving as a frontend developer for at Lunavi Clint is DHS Nebraska(https://iserve.nebraska.gov).
+
+#Technical Skills:
+Web Technologies:HTML5, CSS3,
+USWDS, JavaScript,ReactJS,Redux
+Jest, 
+IDE: VSCode, IntillijIDea 
+Build Tool: Azure, Maven, Jenkins
+
+Platform and environment : Git, GitHub, NodeJS 
+Mehodologies : OOP(object oriented Programming, Restful API, Agile/Scrum, Functional Programming
+  
+  
+  #Planning Roadmap in progress  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/107881309/175979785-4451bf12-757a-4ba4-9004-e30e7b323416.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Complete Project(notepad) = 
+website : https://dreamy-druid-458473.netlify.app/ 
+![image](https://user-images.githubusercontent.com/107881309/175980816-4acd3e8b-0301-41a8-956f-5efd83eb2ddd.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,4 +129,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-website : https://dreamy-druid-458473.netlify.app/
