@@ -1,6 +1,8 @@
 # About ME
 My Developer with background Accounting. I know no one believe this but I am really interested to learning new technologies and new field. I am passionate about technology and implementing them in this constantly evolving industry.
 I am currently Serving as a frontend developer for at Lunavi Clint is DHS Nebraska(https://iserve.nebraska.gov).
+![Screen Shot 2022-06-27 at 11 34 21 AM](https://user-images.githubusercontent.com/107881309/175991078-226d1b14-a916-4fa4-aff3-c124836ffe26.png)
+
 
 #Technical Skills:
 Web Technologies:HTML5, CSS3,
